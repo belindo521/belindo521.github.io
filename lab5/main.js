@@ -1,3 +1,7 @@
+//Name: belindo bosco
+File: inde.html
+Date: Fri/Apr/11//
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
